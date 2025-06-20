@@ -1,9 +1,0 @@
-flask==2.3.2
-torch==2.1.2  # Versión más reciente estable
-torchvision==0.16.2  # Versión compatible con torch 2.1.2
-opencv-python-headless==4.8.1.78
-pandas==2.1.4
-requests==2.31.0
-Pillow==10.1.0
-ultralytics==8.0.196
-numpy==1.26.0
